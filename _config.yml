@@ -9,25 +9,25 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://github.com/rs18bl
+url: rs18bl.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /thetippedoverinkwell
+baseurl: /the-tipped-over-inkwell
 # location of code, the full url to your github repository
-source-code: https://github.com/rs18bl/thetippedoverinkwell
+source-code: http://rs18bl.github.io/the-tipped-over-inkwell
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: TheTippedOverInkwell 
+title: The-Tipped-Over-Inkwell 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: DigitalExhibitionAssingment
+tagline: Digital-Exhibition-Assingment
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A look at nineteenth century penmanship and how that relates to the century itself"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: RachelStangl
+author: Rachel-Stangl
 
 ##########
 # COLLECTION SETTINGS
